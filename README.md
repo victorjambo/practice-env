@@ -1,4 +1,6 @@
-"""
+# Dojo
+
+
 create virtual environment
 virtualenv vn-name-of-env
 
@@ -12,10 +14,5 @@ pip freeze > requirements.txt
 
 to install our env from requirements file
 pip install -r requirements.txt
-"""
 
-
-
-class Person(object):
-    def __init__(self):
-        pass
+install anaconda and autopep8
